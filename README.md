@@ -1,3 +1,9 @@
-# Merlin
+<h1 align="center">merlin</h1>
+<p align="center">iOS implementation of PJLINK protocol</p>
 
-A iOS App for APCS final project
+## Features
+
+- Power on/off
+- Input select
+- Mute on/off
+
